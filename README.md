@@ -49,6 +49,8 @@ class WhoAmI
  # Technologies 🛠
  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/>
 
+ </br>
+ </br>
 
 
 

@@ -32,8 +32,6 @@ class WhoAmI
  ```
 
 ### - I'm 18 years old Software Learning and Movie Enthusiast from Azerbaijan.
-</br>
-</br>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AliShamil/AliShamil/blob/main/images/pulp1.gif">
 
@@ -79,14 +77,6 @@ class WhoAmI
 
 </br>
 </br>
-
-
-  <p align="Center" >  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShamil&layout=compact&theme=radical" /> 
-  <a align="left" href="https://github.com/anuraghazra/github-readme-stats"> 
-<img    src="https://github-readme-stats.vercel.app/api?username=AliShamil&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 </br>
 </br>

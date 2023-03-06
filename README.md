@@ -1,7 +1,7 @@
 # Hola mi amor 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/AliShamil/AliShamil/blob/main/images/patrick1.gif">
+<img hight="300" width="800" alt="GIF" align="center" src="https://github.com/AliShamil/AliShamil/blob/main/images/patrick1.gif">
 </div>
 
 </br>
@@ -53,9 +53,6 @@ class WhoAmI
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
 <p align="center">
   <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
@@ -76,11 +73,7 @@ class WhoAmI
  </p>
  
 
-</br>
-</br>
-</br>
-</br>
-</br>
+
 </br>
 </br>
 
@@ -91,6 +84,17 @@ class WhoAmI
 <img    src="https://github-readme-stats.vercel.app/api?username=AliShamil&&show_icons=true&theme=radical"/>
   </a>
   </p>
+
+</br>
+</br>
+
+
+
+<div align="center">
+<img height="250" width="900" alt="GIF" align="center" src="https://github.com/AliShamil/AliShamil/blob/main/images/HastaLaVista.gif">
+</div>
+
+</br>
 
 
 *************

@@ -11,6 +11,7 @@
 
 # About Me 💬 :
 
+
  ```c#
 class WhoAmI
 {
@@ -32,8 +33,10 @@ class WhoAmI
  ```
 
 ### ***- I'm 18 years old Software Learning and Movie Enthusiast from Azerbaijan.***
+
+<img hight="400" width="700" alt="GIF" align="center" src="https://github.com/AliShamil/AliShamil/blob/main/images/pulp1.gif">
 </br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AliShamil/AliShamil/blob/main/images/pulp1.gif">
+
 
 # Programming Languages 👨‍💻
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/><img src=

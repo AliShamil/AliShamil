@@ -1,4 +1,4 @@
-# Hola mi amor 👋
+# Hola Mi Amor 👋
 
 <div align="center">
 <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/AliShamil/AliShamil/blob/main/images/patrick1.gif">
@@ -9,7 +9,7 @@
 </br>
 
 
-# About ME 💬 :
+# About Me 💬 :
 
  ```c#
 class WhoAmI
@@ -31,8 +31,9 @@ class WhoAmI
 }
  ```
 
-### - I'm 18 years old Software Learning and Movie Enthusiast from Azerbaijan.
-
+### ***- I'm 18 years old Software Learning and Movie Enthusiast from Azerbaijan.***
+</br>
+</br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AliShamil/AliShamil/blob/main/images/pulp1.gif">
 
 # Programming Languages 👨‍💻
@@ -50,7 +51,7 @@ class WhoAmI
 
 
 
-# Contact Me :
+# Contact Me 📞:
 
 <p>
  </br>

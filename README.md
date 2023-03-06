@@ -64,7 +64,7 @@ class WhoAmI
   <a href="https://www.twitch.tv/alishamil_2005"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
   <a href="https://www.pinterest.com/elisamilzade/"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
   <a href="https://medium.com/@elisamilzade"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://steamcommunity.com/id/alishamilov3"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+  <a href="https://steamcommunity.com/profiles/76561199214079675"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
   <a href="https://vk.com/id682066337"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
   <a href="https://open.spotify.com/user/ais4r4xhryx1lzo5d4diowde7"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   <a href="https://stackoverflow.com/users/21030271/ali-shamilzade"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>

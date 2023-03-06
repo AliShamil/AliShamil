@@ -33,7 +33,6 @@ class WhoAmI
 
 ### ***- I'm 18 years old Software Learning and Movie Enthusiast from Azerbaijan.***
 </br>
-</br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AliShamil/AliShamil/blob/main/images/pulp1.gif">
 
 # Programming Languages 👨‍💻

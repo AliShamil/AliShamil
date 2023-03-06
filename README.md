@@ -73,6 +73,8 @@ class WhoAmI
   <a href="https://vk.com/id682066337"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
   <a href="https://open.spotify.com/user/ais4r4xhryx1lzo5d4diowde7"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   <a href="https://stackoverflow.com/users/21030271/ali-shamilzade"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://letterboxd.com/AliShamil/"><img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="stackoverflow" width='80'/></a>
+	
 </p>
  </p>
  

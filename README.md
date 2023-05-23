@@ -42,7 +42,7 @@ class WhoAmI
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/><img src=
 "https://img.icons8.com/color/48/null/c-sharp-logo-2.png" width='40'/> <img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='40'/><img src=
-"https://img.icons8.com/color/48/null/microsoft-sql-server.png" width='40'/> 
+"https://img.icons8.com/color/48/null/microsoft-sql-server.png" width='40'/> <img src="https://img.icons8.com/color/48/null/html.png" width='40'/> 
 </br>
 </br>
 </br>
